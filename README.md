@@ -1,6 +1,6 @@
 # Bing's Website
 
-This is a simple and clean HTML/CSS website built by request for Bing. It includes a basic landing page layout with a custom stylesheet and light interactivity. The site is designed to run as a static website and will be hosted on AWS.
+This is a simple and clean HTML/CSS website built by request for my buddy Bing! It includes a basic landing page layout with a custom stylesheet and light interactivity. The site is designed to run as a static website and will be hosted on AWS.
 
 This version includes everything requested by the client.
 
